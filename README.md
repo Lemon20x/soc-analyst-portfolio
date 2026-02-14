@@ -11,19 +11,6 @@ This repository contains my cybersecurity learning journey using TryHackMe.
 ## Goal
 Become a SOC Analyst
 
-
-#
-
-## Objective
-
-Understand:
-
-## Key Concepts
-
-
-## Commands Used
-
-
 ---Networking Learning Path
 
 #Networking Concepts
