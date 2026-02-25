@@ -31,25 +31,61 @@ Become a SOC Analyst
 
 (Topic)#-#Packets and frames (ports)
 ## Key Concepts learned
+-Packets Headers (TTL, Source IP, Destination, IP, IP version, 
 
 (Topic)#-# inside a computer
+## Key Concepts learned
+
 (Topic)#-# computer types
+## Key Concepts learned
+
 (Topic)#-#client server basics
+## Key Concepts learned
+
 (Topic)#-# virtualization bacis
+## Key Concepts learned
+
 (Topic)#-#Cloud Computing Fundamentals
--#Operating Systems: Introduction
--#Windows Basics
--#Linux CLI Basics 
--#Windows CLI basics whoami dir, dir /s, type, systeminfo, ipconfig
--#Operating System Security
--#Data Representation
--#Data Encoding
--#Python: Simple Demo
--#Database SQL Basic
--#The CIA Triad
--#Cryptography Concepts
--#Become a Hacker
--#Become a defender.
+## Key Concepts learned
+
+(Topic)#-#Operating Systems: Introduction
+## Key Concepts learned
+
+(Topic)#-#Windows Basics
+## Key Concepts learned
+
+(Topic)#-#Linux CLI Basics 
+## Key Concepts learned
+
+(Topic)#-#Windows CLI basics whoami dir, dir /s, type, systeminfo, ipconfig
+## Key Concepts learned
+
+(Topic)#-#Operating System Security
+## Key Concepts learned
+
+(Topic)#-#Data Representation
+## Key Concepts learned
+
+(Topic)#-#Data Encoding
+## Key Concepts learned
+
+(Topic)#-#Python: Simple Demo
+
+(Topic)#-#Database SQL Basic
+## Key Concepts learned
+
+(Topic)#-#The CIA Triad
+## Key Concepts learned
+
+(Topic)#-#Cryptography Concepts
+## Key Concepts learned
+
+(Topic)#-#Become a Hacker
+## Key Concepts learned
+
+(Topic)#-#Become a defender.
+## Key Concepts learned
+
 ###Certificate###
 
 ---Networking Learning Path---
