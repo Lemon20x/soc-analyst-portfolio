@@ -109,3 +109,25 @@ Become a SOC Analyst
 ## Commands Used
 ifconfig, ip, telnet
 
+#-#Intro to logs
+##Key concepts learned
+-Log data (time stamp, id, source, context, description, security level, additional info)
+-Contextual correlation
+-Log types (App logs, security logs, Audit logs, web logs, etc)
+-Log formats(Structured, semi structured, unstructured)
+-Log collection 
+-Log collector
+-Collection tester
+-Log management (storage, organisation, backup, review)
+-Log centralisation 
+-Log storage (considering requirements of capacity, accesibility, cost, regulation, retention policies, and disaster recovery plans)
+-Log Retention (hot storage 3-6m, warm storage 2 years, cold storage 2-5 years)
+-Log deleition(sustain storage, comply with regulations and keep costs)
+-Log analysis(data sources, parsin, normalisation, sorting, clasification, enrichment, correlation, visualisation and reporting)
+-Log analysis tools(cat, grep, sed, sort, uniq, awk, sha256sum) (Windows based, EZ tools)
+-Log analysis techniques (pattern recognition, anomaly detection, correlation analysis, timeline análisis, machine learning, visualisation, statistical analysis)
+
+
+
+
+
